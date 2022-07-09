@@ -1,2 +1,3 @@
 work();
 sleep();
+wakeup();
